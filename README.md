@@ -19,4 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Screenshots
-![Screenshot 1](https://github.com/MiguelEmmara-ai/vue-task-tracker/blob/release/public/Task-Tracker.PNG)
+![Screenshot 1](https://github.com/MiguelEmmara-ai/vue-task-tracker/blob/master/public/Task-Tracker.PNG)
